@@ -9,11 +9,6 @@ export const Hero = () => {
           Share your thoughts, connect with people, and Ignore a community built
           for creators.
         </p>
-        <div className="hero-actions">
-          <a href="/createpost" className="btn-primary">
-            Create Post
-          </a>
-        </div>
       </div>
     </section>
   );
